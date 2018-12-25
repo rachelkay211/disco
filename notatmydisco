@@ -4,7 +4,7 @@ import discord
 from discord import Webhook, RequestsWebhookAdapter, File
  
 # Create webhook
-webhook = Webhook.partial(WEBHOOK_ID, WEBHOOK_TOKEN,\
+webhook = Webhook.partial(527034391218880534, XEXmNk-XQQQ7gxA52gY56bsuIYYZTTb6bW0uXPG0MRWDv21wNLqqTceSCfvu2EPEkGpQ,\
  adapter=RequestsWebhookAdapter())
  
 # Dongle
