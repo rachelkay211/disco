@@ -1,0 +1,6 @@
+# Create webhook
+webhook = Webhook.partial(WEBHOOK_ID, WEBHOOK_TOKEN,\
+ adapter=RequestsWebhookAdapter())
+ 
+# Dongle
+webhook.send(USER_NAME + "NONE OF THAT.")
