@@ -8,4 +8,4 @@ webhook = Webhook.partial(527034391218880534, XEXmNk-XQQQ7gxA52gY56bsuIYYZTTb6bW
  adapter=RequestsWebhookAdapter())
  
 # Dongle
-webhook.send(USER_NAME + "NONE OF THAT.")
+webhook.send("NONE OF THAT.")
